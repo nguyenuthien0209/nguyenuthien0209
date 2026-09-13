@@ -14,3 +14,7 @@ I write about cloud infrastructure and .NET development on [Medium](https://nguy
 
 - [TokenAuthDemo](https://github.com/nguyenuthien0209/TokenAuthDemo) — ASP.NET Core 8 Web API secured by Duende IdentityServer (OAuth2/OIDC)
 - [OrderProcessingERP](https://github.com/nguyenuthien0209/OrderProcessingERP) — reference order-processing system built as six independent .NET 8 microservices, communicating over RabbitMQ with event choreography and per-service CQRS + SQL databases
+
+#### Resources
+
+- [clean-code-dotnet](https://github.com/nguyenuthien0209/clean-code-dotnet) — Clean Code concepts and tools adapted for .NET, forked from [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet)
